@@ -31,8 +31,9 @@ OBSERVATIONS:
 <img width="1600" height="848" alt="image" src="https://github.com/user-attachments/assets/63d3d1a3-c797-44de-bdb2-d6a7000cf92b" />
 <img width="1600" height="742" alt="WhatsApp Image 2026-05-28 at 4 01 24 PM" src="https://github.com/user-attachments/assets/6b307e56-3bd4-40ad-8a8f-b6edaeaccfd2" />
 
-<img width="1600" height="742" alt="WhatsApp Image 2026-05-28 at 4 01 24 PM" src="https://github.com/user-attachments/assets/2125fb39-8c84-4bbf-a42c-0f9e19522e5f" />
 <img width="1600" height="768" alt="WhatsApp Image 2026-05-28 at 4 01 23 PM" src="https://github.com/user-attachments/assets/e296d2ad-5270-4b1a-98c6-739cb6cae460" />
+<img width="1600" height="708" alt="WhatsApp Image 2026-05-28 at 4 01 24 PM (1)" src="https://github.com/user-attachments/assets/b536f97a-fb32-4357-9050-30a2674c0b2c" />
+
 
 
 REGULATION CHARACTERISTICS:
